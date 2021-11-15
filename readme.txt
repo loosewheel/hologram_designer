@@ -14,3 +14,6 @@ the hologram block in the center facing down.
 
 Select a color and left click or drag on the cells to color them. The
 light brown color is empty (no color).
+
+Just unzip and run the executable, it doesn't need to be installed.
+This is a windows program, but it runs on linux through wine.
